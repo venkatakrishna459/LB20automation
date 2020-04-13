@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.training.sanity.tests.TestNGAnnotationEx1">
+      <class name="com.training.sanity.tests.UNF_057">
         <methods>
-          <include name="A"/>
-          <include name="D"/>
+          <include name="EnterDiscountDetails"/>
+          <include name="setUpBeforeClass"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- com.training.sanity.tests.TestNGAnnotationEx1 -->
+      </class> <!-- com.training.sanity.tests.UNF_057 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
